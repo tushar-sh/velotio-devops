@@ -1,5 +1,6 @@
 #!/bin/bash
 set -euo pipefail:q
+# For a little error handeling, set some flags 
 
 
 echo -e "Iterating...\n"
